@@ -16,3 +16,13 @@
     - Tổng thời gian: 3.38 phút
     - Tổng sản phẩm đã transform: 146211 sản phẩm
     - Số sản phẩm transform trung bình mỗi phút: 48737 sản phẩm
+- Quy trình:
+      - Đọc qua từng file json ở thư mục **[data_products_js](https://drive.google.com/drive/folders/1bbj4Jcru2xb9AIHVxb1SWKCash6pncXD?usp=sharing)** thu được ở Test 1 lấy các thông tin tương ứng như yêu cầu của Test 2:
+          - product_name: key là 'name'
+          - product_url: được tạo bởi 3 trường là 'name', 'shopid' và 'itemid'
+          - product_rating: key là 'rating_star' nằm trong key 'item_rating'
+          - product_price: key là 'price', chia đi 100000 để đúng đơn vị
+          - product_revenue: giá trị bằng ('price' / 100000) * 'historical_sold'
+
+  
+          
