@@ -22,7 +22,7 @@
     - product_rating: key là 'rating_star' nằm trong key 'item_rating'
     - product_price: key là 'price', chia đi 100000 để đúng đơn vị
     - product_revenue: giá trị bằng ('price' / 100000) * 'historical_sold'
---> Lưu trữ và dataframe sau đó ghi file csv và excel.
+- --> Lưu trữ và dataframe sau đó ghi file csv và excel.
 
   
           
