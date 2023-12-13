@@ -7,3 +7,5 @@
 - Quy trình:
     - Bước 1: Thu thập các đường dẫn của các danh mục chính (file code: get_category_info.py). Output của bước này là file category_info.csv chứa các trường dữ liệu như sau:
                             <img src="https://i.imgur.com/cSNLjoW.png">
+    - Bước 2: Thu thập các danh mục con của từng danh mục chính qua api của shopee (file code: transform_catid_lv2.ipynb). Output của bước này là file all_category_levels_info.csv chứa đầy đủ các category cấp 1 và 2:
+                            <img src="https://i.imgur.com/8VIkAkF.png">
