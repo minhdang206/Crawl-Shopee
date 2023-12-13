@@ -22,7 +22,8 @@
     - product_rating: key là 'rating_star' nằm trong key 'item_rating'
     - product_price: key là 'price', chia đi 100000 để đúng đơn vị
     - product_revenue: giá trị bằng ('price' / 100000) * 'historical_sold'
-    - *Lưu trữ và dataframe sau đó ghi file csv và excel lưu ở thư mục **[data_transformed](https://drive.google.com/drive/folders/1fVdTJxfxG7bdLr0r1jijdCA4wEcGOQIS?usp=drive_link)**
+    - *Lưu trữ và dataframe sau đó ghi file csv và excel lưu ở thư mục* **[data_transformed](https://drive.google.com/drive/folders/1fVdTJxfxG7bdLr0r1jijdCA4wEcGOQIS?usp=drive_link)**:
+                           <img src="https://i.imgur.com/CP7G41W.png">
 
   
           
