@@ -6,4 +6,4 @@
     - Mỗi phút cào được: 6259 sản phẩm
 - Quy trình:
     - Bước 1: Thu thập các đường dẫn của các danh mục chính (file code: get_category_info.py). Output của bước này là file category_info.csv chứa các trường dữ liệu như sau:
-    - <img src="//s.imgur.com/min/embed.js">
+    - <img src="[//s.imgur.com/min/embed.js](https://i.imgur.com/cSNLjoW.png)https://i.imgur.com/cSNLjoW.png">
