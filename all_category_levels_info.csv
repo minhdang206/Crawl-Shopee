@@ -1,0 +1,315 @@
+category_id,category_level,category_level_1,display_name
+11036194,1,Mẹ & Bé,Mẹ & Bé
+11036195,2,Mẹ & Bé,Đồ dùng du lịch cho bé
+11036204,2,Mẹ & Bé,Đồ dùng ăn dặm cho bé
+11036213,2,Mẹ & Bé,Phụ kiện cho mẹ
+11036217,2,Mẹ & Bé,Chăm sóc sức khỏe mẹ
+11036222,2,Mẹ & Bé,Đồ dùng phòng tắm & Chăm sóc cơ thể bé
+11036233,2,Mẹ & Bé,Đồ dùng phòng ngủ cho bé
+11036240,2,Mẹ & Bé,An toàn cho bé
+11036248,2,Mẹ & Bé,Thực phẩm cho bé
+11036253,2,Mẹ & Bé,Chăm sóc sức khỏe bé
+11036260,2,Mẹ & Bé,Tã & bô em bé
+11036266,2,Mẹ & Bé,Đồ chơi
+11036277,2,Mẹ & Bé,Bộ & Gói quà tặng
+11036278,2,Mẹ & Bé,Khác
+11059299,2,Mẹ & Bé,Sữa công thức trên 24 tháng
+11059300,2,Mẹ & Bé,Sữa công thức 0-24 tháng tuổi
+11036030,1,Điện Thoại & Phụ Kiện,Điện Thoại & Phụ Kiện
+11036031,2,Điện Thoại & Phụ Kiện,Điện thoại
+11036041,2,Điện Thoại & Phụ Kiện,Máy tính bảng
+11036048,2,Điện Thoại & Phụ Kiện,Pin Dự Phòng
+11036054,2,Điện Thoại & Phụ Kiện,"Pin Gắn Trong, Cáp và Bộ Sạc"
+11036060,2,Điện Thoại & Phụ Kiện,"Ốp lưng, bao da, Miếng dán điện thoại"
+11036064,2,Điện Thoại & Phụ Kiện,Bảo vệ màn hình
+11036074,2,Điện Thoại & Phụ Kiện,Đế giữ điện thoại
+11036083,2,Điện Thoại & Phụ Kiện,Thẻ nhớ
+11036084,2,Điện Thoại & Phụ Kiện,Sim
+11036091,2,Điện Thoại & Phụ Kiện,Phụ kiện khác
+11036097,2,Điện Thoại & Phụ Kiện,Thiết bị khác
+11035954,1,Máy Tính & Laptop,Máy Tính & Laptop
+11035955,2,Máy Tính & Laptop,Máy Tính Bàn
+11035961,2,Máy Tính & Laptop,Màn Hình
+11035962,2,Máy Tính & Laptop,Linh Kiện Máy Tính
+11035975,2,Máy Tính & Laptop,Thiết Bị Lưu Trữ
+11035983,2,Máy Tính & Laptop,Thiết Bị Mạng
+11035993,2,Máy Tính & Laptop,"Máy In, Máy Scan & Máy Chiếu"
+11036000,2,Máy Tính & Laptop,Phụ Kiện Máy Tính
+11036015,2,Máy Tính & Laptop,Laptop
+11036016,2,Máy Tính & Laptop,Khác
+11036023,2,Máy Tính & Laptop,Gaming
+11036932,1,Đồ Chơi,Đồ Chơi
+11036933,2,Đồ Chơi,Sở thích & Sưu tầm
+11036939,2,Đồ Chơi,Đồ chơi giải trí
+11036946,2,Đồ Chơi,Đồ chơi giáo dục
+11036954,2,Đồ Chơi,Đồ chơi cho trẻ sơ sinh & trẻ nhỏ
+11036960,2,Đồ Chơi,Đồ chơi vận động & ngoài trời
+11036966,2,Đồ Chơi,Búp bê & Đồ chơi nhồi bông
+11036101,1,Máy Ảnh & Máy Quay Phim,Máy Ảnh & Máy Quay Phim
+11036102,2,Máy Ảnh & Máy Quay Phim,Máy ảnh - Máy quay phim
+11036109,2,Máy Ảnh & Máy Quay Phim,Camera giám sát & Camera hệ thống
+11036114,2,Máy Ảnh & Máy Quay Phim,Thẻ nhớ
+11036115,2,Máy Ảnh & Máy Quay Phim,Ống kính
+11036119,2,Máy Ảnh & Máy Quay Phim,Phụ kiện máy ảnh
+11036129,2,Máy Ảnh & Máy Quay Phim,Máy bay camera & Phụ kiện
+11036345,1,Sức Khỏe,Sức Khỏe
+11036352,2,Sức Khỏe,Vật tư y tế
+11036373,2,Sức Khỏe,Chống muỗi & xua đuổi côn trùng
+11036346,2,Sức Khỏe,Thực phẩm chức năng
+11036370,2,Sức Khỏe,Tã người lớn
+11036348,2,Sức Khỏe,Hỗ trợ làm đẹp
+11036375,2,Sức Khỏe,Hỗ trợ tình dục
+11036372,2,Sức Khỏe,Dụng cụ massage và trị liệu
+11036381,2,Sức Khỏe,Khác
+11036670,1,Nhà Cửa & Đời Sống,Nhà Cửa & Đời Sống
+11036683,2,Nhà Cửa & Đời Sống,"Chăn, Ga, Gối & Nệm"
+11036695,2,Nhà Cửa & Đời Sống,Đồ nội thất
+11036717,2,Nhà Cửa & Đời Sống,Trang trí nhà cửa
+11036732,2,Nhà Cửa & Đời Sống,Dụng cụ & Thiết bị tiện ích
+11036748,2,Nhà Cửa & Đời Sống,Đồ dùng nhà bếp và hộp đựng thực phẩm
+11036760,2,Nhà Cửa & Đời Sống,Đèn
+11036776,2,Nhà Cửa & Đời Sống,Ngoài trời & Sân vườn
+11036671,2,Nhà Cửa & Đời Sống,Đồ dùng phòng tắm
+11111670,2,Nhà Cửa & Đời Sống,Vật phẩm thờ cúng
+11111669,2,Nhà Cửa & Đời Sống,Đồ trang trí tiệc
+11111665,2,Nhà Cửa & Đời Sống,Chăm sóc nhà cửa và giặt ủi
+11111668,2,Nhà Cửa & Đời Sống,Sắp xếp nhà cửa
+11111666,2,Nhà Cửa & Đời Sống,Dụng cụ pha chế
+11111664,2,Nhà Cửa & Đời Sống,Tinh dầu thơm phòng
+11111667,2,Nhà Cửa & Đời Sống,Đồ dùng phòng ăn
+11035825,1,Giày Dép Nữ,Giày Dép Nữ
+11035826,2,Giày Dép Nữ,Bốt
+11035830,2,Giày Dép Nữ,Giày Thể Thao/ Sneaker
+11035831,2,Giày Dép Nữ,Giày Đế Bằng
+11035837,2,Giày Dép Nữ,Giày Cao Gót
+11035838,2,Giày Dép Nữ,Giày Đế Xuồng
+11035839,2,Giày Dép Nữ,Xăng-đan Và Dép
+11035845,2,Giày Dép Nữ,Phụ Kiện Giày
+11035852,2,Giày Dép Nữ,Giày Khác
+11116484,1,Dụng cụ và thiết bị tiện ích,Dụng cụ và thiết bị tiện ích
+11116487,2,Dụng cụ và thiết bị tiện ích,Dụng cụ cầm tay
+11116485,2,Dụng cụ và thiết bị tiện ích,Dụng cụ điện và thiết bị lớn
+11116489,2,Dụng cụ và thiết bị tiện ích,Thiết bị mạch điện
+11116488,2,Dụng cụ và thiết bị tiện ích,Vật liệu xây dựng
+11116486,2,Dụng cụ và thiết bị tiện ích,Thiết bị và phụ kiện xây dựng
+11036478,1,Chăm Sóc Thú Cưng,Chăm Sóc Thú Cưng
+11036479,2,Chăm Sóc Thú Cưng,Thức ăn cho thú cưng
+11036490,2,Chăm Sóc Thú Cưng,Phụ kiện cho thú cưng
+11036498,2,Chăm Sóc Thú Cưng,Vệ sinh cho thú cưng
+11036510,2,Chăm Sóc Thú Cưng,Quần áo thú cưng
+11036519,2,Chăm Sóc Thú Cưng,Chăm sóc sức khỏe
+11116223,2,Chăm Sóc Thú Cưng,Làm đẹp cho thú cưng
+11036524,2,Chăm Sóc Thú Cưng,Khác
+11035639,1,Thời Trang Nữ,Thời Trang Nữ
+11035648,2,Thời Trang Nữ,Quần
+11035652,2,Thời Trang Nữ,Quần đùi
+11035656,2,Thời Trang Nữ,Chân váy
+11035657,2,Thời Trang Nữ,Quần jeans
+11035658,2,Thời Trang Nữ,Đầm/Váy
+11035659,2,Thời Trang Nữ,Váy cưới
+11035660,2,Thời Trang Nữ,Đồ liền thân
+11035665,2,Thời Trang Nữ,"Áo khoác, Áo choàng & Vest"
+11035672,2,Thời Trang Nữ,Áo len & Cardigan
+11035673,2,Thời Trang Nữ,Hoodie và Áo nỉ
+11035677,2,Thời Trang Nữ,Bộ
+11035682,2,Thời Trang Nữ,Đồ lót
+11035692,2,Thời Trang Nữ,Đồ ngủ
+11035640,2,Thời Trang Nữ,Áo
+11035730,2,Thời Trang Nữ,Đồ tập
+11035697,2,Thời Trang Nữ,Đồ Bầu
+11035705,2,Thời Trang Nữ,Đồ truyền thống
+11035711,2,Thời Trang Nữ,Đồ hóa trang
+11035713,2,Thời Trang Nữ,Vải
+11035726,2,Thời Trang Nữ,Vớ/ Tất
+11035712,2,Thời Trang Nữ,Khác
+11036132,1,Thiết Bị Điện Tử,Thiết Bị Điện Tử
+11036160,2,Thiết Bị Điện Tử,Thiết bị đeo thông minh
+11036167,2,Thiết Bị Điện Tử,Phụ kiện tivi
+11036172,2,Thiết Bị Điện Tử,Máy Game Console
+11036182,2,Thiết Bị Điện Tử,Phụ kiện Console
+11036184,2,Thiết Bị Điện Tử,Đĩa game
+11036133,2,Thiết Bị Điện Tử,Linh phụ kiện
+11036143,2,Thiết Bị Điện Tử,Tai nghe nhét tai
+11036135,2,Thiết Bị Điện Tử,Loa
+11036151,2,Thiết Bị Điện Tử,Tivi
+11036157,2,Thiết Bị Điện Tử,Tivi Box
+11109141,2,Thiết Bị Điện Tử,Headphones
+11036793,1,Ô Tô & Xe Máy & Xe Đạp,Ô Tô & Xe Máy & Xe Đạp
+11036794,2,Ô Tô & Xe Máy & Xe Đạp,"Xe đạp, xe điện"
+11036804,2,Ô Tô & Xe Máy & Xe Đạp,"Mô tô, xe máy"
+11036811,2,Ô Tô & Xe Máy & Xe Đạp,Xe Ô tô
+11036817,2,Ô Tô & Xe Máy & Xe Đạp,Mũ bảo hiểm
+11036824,2,Ô Tô & Xe Máy & Xe Đạp,Phụ kiện xe máy
+11036846,2,Ô Tô & Xe Máy & Xe Đạp,Phụ kiện xe đạp
+11108984,2,Ô Tô & Xe Máy & Xe Đạp,Phụ kiện bên trong ô tô
+11108967,2,Ô Tô & Xe Máy & Xe Đạp,Dầu nhớt & dầu nhờn
+11109015,2,Ô Tô & Xe Máy & Xe Đạp,Phụ tùng ô tô
+11108953,2,Ô Tô & Xe Máy & Xe Đạp,Phụ tùng xe máy
+11109002,2,Ô Tô & Xe Máy & Xe Đạp,Phụ kiện bên ngoài ô tô
+11108974,2,Ô Tô & Xe Máy & Xe Đạp,Chăm sóc ô tô
+11116267,2,Ô Tô & Xe Máy & Xe Đạp,Dịch vụ cho xe
+11036863,1,Nhà Sách Online,Nhà Sách Online
+11108503,2,Nhà Sách Online,Sách Tiếng Việt
+11108540,2,Nhà Sách Online,Sách ngoại văn
+11108576,2,Nhà Sách Online,Gói Quà
+11108584,2,Nhà Sách Online,Bút viết
+11108591,2,Nhà Sách Online,Dụng cụ học sinh & văn phòng
+11108635,2,Nhà Sách Online,"Màu, Họa Cụ và Đồ Thủ Công"
+11108610,2,Nhà Sách Online,Sổ và Giấy Các Loại
+11036914,2,Nhà Sách Online,Quà Lưu Niệm
+11108624,2,Nhà Sách Online,Nhạc cụ và phụ kiện âm nhạc
+11035801,1,Giày Dép Nam,Giày Dép Nam
+11035802,2,Giày Dép Nam,Bốt
+11035807,2,Giày Dép Nam,Giày Thể Thao/ Sneakers
+11035808,2,Giày Dép Nam,Giày Sục
+11035809,2,Giày Dép Nam,Giày Tây Lười
+11035810,2,Giày Dép Nam,Giày Oxfords & Giày Buộc Dây
+11035811,2,Giày Dép Nam,Xăng-đan và Dép
+11035817,2,Giày Dép Nam,Phụ kiện giày dép
+11035824,2,Giày Dép Nam,Khác
+11036525,1,Bách Hóa Online,Bách Hóa Online
+11036532,2,Bách Hóa Online,Đồ ăn vặt
+11036526,2,Bách Hóa Online,Đồ chế biến sẵn
+11036544,2,Bách Hóa Online,Nhu yếu phẩm
+11036552,2,Bách Hóa Online,Nguyên liệu nấu ăn
+11036562,2,Bách Hóa Online,Đồ làm bánh
+11036591,2,Bách Hóa Online,Sữa - trứng
+11036576,2,Bách Hóa Online,Đồ uống
+11036570,2,Bách Hóa Online,Ngũ cốc & mứt
+11036611,2,Bách Hóa Online,Các loại bánh
+11036616,2,Bách Hóa Online,Đồ uống có cồn
+11036622,2,Bách Hóa Online,Bộ quà tặng
+11036601,2,Bách Hóa Online,Thực phẩm tươi sống và thực phẩm đông lạnh
+11036623,2,Bách Hóa Online,Khác
+11035741,1,Balo & Túi Ví Nam,Balo & Túi Ví Nam
+11035742,2,Balo & Túi Ví Nam,Ba Lô Nam
+11035743,2,Balo & Túi Ví Nam,Ba Lô Laptop Nam
+11035744,2,Balo & Túi Ví Nam,Túi & Cặp Đựng Laptop
+11035747,2,Balo & Túi Ví Nam,Túi Chống Sốc Laptop Nam
+11035748,2,Balo & Túi Ví Nam,Túi Tote Nam
+11035749,2,Balo & Túi Ví Nam,Cặp Xách Công Sở Nam
+11035750,2,Balo & Túi Ví Nam,Ví Cầm Tay Nam
+11035751,2,Balo & Túi Ví Nam,Túi Đeo Hông & Túi Đeo Ngực Nam
+11035752,2,Balo & Túi Ví Nam,Túi Đeo Chéo Nam
+11035753,2,Balo & Túi Ví Nam,Bóp/Ví Nam
+11035760,2,Balo & Túi Ví Nam,Khác
+11036279,1,Sắc Đẹp,Sắc Đẹp
+11036328,2,Sắc Đẹp,Chăm sóc da mặt
+11036280,2,Sắc Đẹp,Tắm & chăm sóc cơ thể
+11036314,2,Sắc Đẹp,Trang điểm
+11036297,2,Sắc Đẹp,Chăm sóc tóc
+11036321,2,Sắc Đẹp,Dụng cụ & Phụ kiện Làm đẹp
+11111646,2,Sắc Đẹp,Vệ sinh răng miệng
+11036310,2,Sắc Đẹp,Nước hoa
+11036304,2,Sắc Đẹp,Chăm sóc nam giới
+11036344,2,Sắc Đẹp,Khác
+11111647,2,Sắc Đẹp,Chăm sóc phụ nữ
+11036343,2,Sắc Đẹp,Bộ sản phẩm làm đẹp
+11036624,1,Giặt Giũ & Chăm Sóc Nhà Cửa,Giặt Giũ & Chăm Sóc Nhà Cửa
+11036625,2,Giặt Giũ & Chăm Sóc Nhà Cửa,Giặt giũ & Chăm sóc nhà cửa
+11036634,2,Giặt Giũ & Chăm Sóc Nhà Cửa,"Giấy vệ sinh, khăn giấy"
+11036639,2,Giặt Giũ & Chăm Sóc Nhà Cửa,Vệ sinh nhà cửa
+11036647,2,Giặt Giũ & Chăm Sóc Nhà Cửa,Vệ sinh bát đĩa
+11036649,2,Giặt Giũ & Chăm Sóc Nhà Cửa,Dụng cụ vệ sinh
+11036654,2,Giặt Giũ & Chăm Sóc Nhà Cửa,"Chất khử mùi, làm thơm"
+11036660,2,Giặt Giũ & Chăm Sóc Nhà Cửa,Thuốc diệt côn trùng
+11036664,2,Giặt Giũ & Chăm Sóc Nhà Cửa,"Túi, màng bọc thực phẩm"
+11036668,2,Giặt Giũ & Chăm Sóc Nhà Cửa,"Bao bì, túi đựng rác"
+11035478,1,Thể Thao & Du Lịch,Thể Thao & Du Lịch
+11035479,2,Thể Thao & Du Lịch,Vali
+11035487,2,Thể Thao & Du Lịch,Túi du lịch
+11035492,2,Thể Thao & Du Lịch,Phụ kiện du lịch
+11035503,2,Thể Thao & Du Lịch,Dụng Cụ Thể Thao & Dã Ngoại
+11035531,2,Thể Thao & Du Lịch,Giày Thể Thao
+11035543,2,Thể Thao & Du Lịch,Thời Trang Thể Thao & Dã Ngoại
+11035553,2,Thể Thao & Du Lịch,Phụ Kiện Thể Thao & Dã Ngoại
+11035566,2,Thể Thao & Du Lịch,Khác
+11035898,1,Voucher & Dịch Vụ,Voucher & Dịch Vụ
+11035905,2,Voucher & Dịch Vụ,Nhà hàng & Ăn uống
+11035899,2,Voucher & Dịch Vụ,Sự kiện & Giải trí
+11035931,2,Voucher & Dịch Vụ,Nạp tiền tài khoản
+11035922,2,Voucher & Dịch Vụ,Sức khỏe & Làm đẹp
+11035929,2,Voucher & Dịch Vụ,Gọi xe
+11035930,2,Voucher & Dịch Vụ,Khóa học
+11035936,2,Voucher & Dịch Vụ,Du lịch & Khách sạn
+11035909,2,Voucher & Dịch Vụ,Mua sắm
+11035949,2,Voucher & Dịch Vụ,Mã quà tặng Shopee
+11035913,2,Voucher & Dịch Vụ,Thanh toán hóa đơn
+11035914,2,Voucher & Dịch Vụ,Dịch vụ khác
+11035761,1,Túi Ví Nữ,Túi Ví Nữ
+11035762,2,Túi Ví Nữ,Ba Lô Nữ
+11035763,2,Túi Ví Nữ,Cặp Laptop
+11035768,2,Túi Ví Nữ,Ví Dự Tiệc & Ví Cầm Tay
+11035769,2,Túi Ví Nữ,Túi Đeo Hông & Túi Đeo Ngực
+11035770,2,Túi Ví Nữ,Túi Tote
+11035771,2,Túi Ví Nữ,Túi Quai Xách
+11035772,2,Túi Ví Nữ,Túi Đeo Chéo & Túi Đeo Vai
+11035773,2,Túi Ví Nữ,Ví/Bóp Nữ
+11035780,2,Túi Ví Nữ,Phụ Kiện Túi
+11035787,2,Túi Ví Nữ,Khác
+11035853,1,Phụ Kiện & Trang Sức Nữ,Phụ Kiện & Trang Sức Nữ
+11035854,2,Phụ Kiện & Trang Sức Nữ,Nhẫn
+11035855,2,Phụ Kiện & Trang Sức Nữ,Bông tai
+11035856,2,Phụ Kiện & Trang Sức Nữ,Khăn choàng
+11035857,2,Phụ Kiện & Trang Sức Nữ,Găng tay
+11035858,2,Phụ Kiện & Trang Sức Nữ,Phụ kiện tóc
+11035865,2,Phụ Kiện & Trang Sức Nữ,Vòng tay & Lắc tay
+11035866,2,Phụ Kiện & Trang Sức Nữ,Lắc chân
+11035867,2,Phụ Kiện & Trang Sức Nữ,Mũ
+11035868,2,Phụ Kiện & Trang Sức Nữ,Dây chuyền
+11035869,2,Phụ Kiện & Trang Sức Nữ,Kính mắt
+11035874,2,Phụ Kiện & Trang Sức Nữ,Kim loại quý
+11035880,2,Phụ Kiện & Trang Sức Nữ,Thắt lưng
+11035881,2,Phụ Kiện & Trang Sức Nữ,Cà vạt & Nơ cổ
+11035882,2,Phụ Kiện & Trang Sức Nữ,Phụ kiện thêm
+11035891,2,Phụ Kiện & Trang Sức Nữ,Bộ phụ kiện
+11035892,2,Phụ Kiện & Trang Sức Nữ,Khác
+11035893,2,Phụ Kiện & Trang Sức Nữ,Vớ/ Tất
+11035897,2,Phụ Kiện & Trang Sức Nữ,Ô/Dù
+11035788,1,Đồng Hồ,Đồng Hồ
+11035789,2,Đồng Hồ,Đồng Hồ Nam
+11035790,2,Đồng Hồ,Đồng Hồ Nữ
+11035791,2,Đồng Hồ,Bộ Đồng Hồ & Đồng Hồ Cặp
+11035792,2,Đồng Hồ,Đồng Hồ Trẻ Em
+11035793,2,Đồng Hồ,Phụ Kiện Đồng Hồ
+11035800,2,Đồng Hồ,Khác
+11035567,1,Thời Trang Nam,Thời Trang Nam
+11035568,2,Thời Trang Nam,Áo Khoác
+11035572,2,Thời Trang Nam,Áo Vest và Blazer
+11035578,2,Thời Trang Nam,"Áo Hoodie, Áo Len & Áo Nỉ"
+11035583,2,Thời Trang Nam,Quần Jeans
+11035584,2,Thời Trang Nam,Quần Dài/Quần Âu
+11035590,2,Thời Trang Nam,Quần Short
+11035592,2,Thời Trang Nam,Áo
+11035597,2,Thời Trang Nam,Áo Ba Lỗ
+11035598,2,Thời Trang Nam,Đồ Lót
+11035603,2,Thời Trang Nam,Đồ Ngủ
+11035604,2,Thời Trang Nam,Đồ Bộ
+11035605,2,Thời Trang Nam,Vớ/Tất
+11035606,2,Thời Trang Nam,Trang Phục Truyền Thống
+11035611,2,Thời Trang Nam,Đồ Hóa Trang
+11035612,2,Thời Trang Nam,Trang Phục Ngành Nghề
+11035613,2,Thời Trang Nam,Khác
+11035614,2,Thời Trang Nam,Trang Sức Nam
+11035620,2,Thời Trang Nam,Kính Mắt Nam
+11035625,2,Thời Trang Nam,Thắt Lưng Nam
+11035626,2,Thời Trang Nam,Cà vạt & Nơ cổ
+11035627,2,Thời Trang Nam,Phụ Kiện Nam
+11036382,1,Thời Trang Trẻ Em,Thời Trang Trẻ Em
+11036418,2,Thời Trang Trẻ Em,Trang phục bé trai
+11036438,2,Thời Trang Trẻ Em,Trang phục bé gái
+11036461,2,Thời Trang Trẻ Em,Giày dép bé trai
+11036469,2,Thời Trang Trẻ Em,Giày dép bé gái
+11036477,2,Thời Trang Trẻ Em,Khác
+11036383,2,Thời Trang Trẻ Em,Quần áo em bé
+11036396,2,Thời Trang Trẻ Em,Giày tập đi & Tất sơ sinh
+11036397,2,Thời Trang Trẻ Em,Phụ kiện trẻ em
+11036971,1,Thiết Bị Điện Gia Dụng,Thiết Bị Điện Gia Dụng
+11036972,2,Thiết Bị Điện Gia Dụng,Đồ gia dụng nhà bếp
+11036990,2,Thiết Bị Điện Gia Dụng,Đồ gia dụng lớn
+11037000,2,Thiết Bị Điện Gia Dụng,Máy hút bụi & Thiết bị làm sạch
+11037007,2,Thiết Bị Điện Gia Dụng,Quạt & Máy nóng lạnh
+11037016,2,Thiết Bị Điện Gia Dụng,Thiết bị chăm sóc quần áo
+11037023,2,Thiết Bị Điện Gia Dụng,Khác
+11111623,2,Thiết Bị Điện Gia Dụng,"Máy xay, ép, máy đánh trứng trộn bột, máy xay thực phẩm"
+11111620,2,Thiết Bị Điện Gia Dụng,Bếp điện
